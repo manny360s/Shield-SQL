@@ -1,4 +1,4 @@
-# Sheild-SQL
+# Shield-SQL
 SHEILD_SQL By: Emmanuel Felix
 
 For The Gordon Prize in Managing Cybersecurity Resources, 2024
